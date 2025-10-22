@@ -51,7 +51,7 @@ The simulation features animated fish, environmental lighting, and realistic mot
 | File | Description |
 |------|--------------|
 | `Aquarium.pde` | Main program loop, environment rendering, controls, and UI. |
-| `Entities.pde` | Contains both the `Fish` and `Food` classes handling all behaviour and rendering. |
+| `fish.pde` | Contains both the `Fish` and `Food` classes handling all behaviour and rendering. |
 | `screenshot.png` | Example output image of the aquarium. |
 
 ---
