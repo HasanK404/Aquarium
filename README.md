@@ -57,4 +57,4 @@ The simulation features animated fish, environmental lighting, and realistic mot
 ---
 
 ## 🖼️ Example Output
-![screenshot](screenshot.png)
+![screenshot](screenshot.PNG)
